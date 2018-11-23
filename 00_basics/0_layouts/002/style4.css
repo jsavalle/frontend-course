@@ -1,0 +1,45 @@
+ @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans');
+ @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  font-family: 'Black Han Sans', sans-serif;
+}
+
+p {
+  text-align: justify;
+  font-size: 15px;
+  padding: 15px;
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+  display: inline-block;
+
+
+  /* margin-right: 20%;
+  margin-left: 20%; */
+}
+
+a{
+  display: block;
+}
+
+div {
+
+}
+
+.case {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+
+.noir {
+  background-color: #34495e;
+}
+
+
+.blanche {
+  background-color: #9b59b6;
+}

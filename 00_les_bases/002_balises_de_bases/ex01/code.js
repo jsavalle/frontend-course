@@ -4,3 +4,5 @@ setTimeout(
   {
     $( ".bouton" ).html( "Plop..." );
   }, 5000);
+
+  // ici un commentaire

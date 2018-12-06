@@ -13,24 +13,26 @@ p {
   padding: 15px;
   color: white;
   font-family: 'Press Start 2P', cursive;
-  display: inline-block;
 
 
   /* margin-right: 20%;
   margin-left: 20%; */
 }
 
-a{
-  display: block;
-}
-
 #p1 {
+  position: absolute;
+  left: 15%;
+  top: 25%;
   background-color: #34495e;
   max-width: 30%;
+
 }
 
 
 #p2 {
   background-color: #9b59b6;
+  position: absolute;
+  left: 55%;
+  top: 25%;
   max-width: 30%;
 }
